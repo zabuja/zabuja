@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Frameworks.**
 
+- 📫 How to reach me **atagh3344@gmail.com**
+- <img src ="https://cdn.dribbble.com/users/721278/screenshots/15530406/media/8366a375c4d03ad9eb72cf1a637d24a2.mp4" width = 200px height = "" 200px>
+
 - ⚡ Fun fact **I love to pet dogs 🐕.**
 
 <h3 align="left">Connect with me:</h3>
