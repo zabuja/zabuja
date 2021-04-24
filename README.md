@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Frameworks.**
 
 - 📫 How to reach me **atagh3344@gmail.com**
-- <img src ="https://cdn.dribbble.com/users/721278/screenshots/15530406/media/8366a375c4d03ad9eb72cf1a637d24a2.mp4" width = 200px height = "" 200px>
+- <img align=right src ="https://dribbble.com/shots/15530406-My-pet?utm_source=Clipboard_Shot&utm_campaign=nguyenhut&utm_content=My%20pet&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=nguyenhut&utm_content=My%20pet&utm_medium=Social_Share">
 
 - ⚡ Fun fact **I love to pet dogs 🐕.**
 
