@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Frameworks.**
 
 - 📫 How to reach me **atagh3344@gmail.com**
-- <img align=right src ="https://dribbble.com/shots/15530406-My-pet?utm_source=Clipboard_Shot&utm_campaign=nguyenhut&utm_content=My%20pet&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=nguyenhut&utm_content=My%20pet&utm_medium=Social_Share">
+<iframe src="https://giphy.com/embed/3o7abAHdYvZdBNnGZq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-puppy-dottie-3o7abAHdYvZdBNnGZq">via GIPHY</a></p>
 
 - ⚡ Fun fact **I love to pet dogs 🐕.**
 
