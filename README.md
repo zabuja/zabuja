@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks.**
 
-- 📫 How to reach me **atagh3344@gmail.com**
+- 📫 You can reach me at **atagh3344@gmail.com**
 <img align=right src="https://media2.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif?cid=ecf05e47h46542ksbsvis7jaqtpy4lr9aws303sqfmyodav7&rid=giphy.gif&ct=g" width=400>
 
 - ⚡ Fun fact **I love to pet dogs 🐕.**
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://instagram.com/__atanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="__atanu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zabuja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zabuja" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zabuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="zabuja" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zabuja" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="zabuja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
