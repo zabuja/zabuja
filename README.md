@@ -13,11 +13,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/getatanu/" target="blank">
-  <img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622360069~hmac=5ea114e7933de766bb098fa1e422e888" alt="Atanu Ghosh" height="30" width="40" /></a><br><br>
+  <img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622360069~hmac=5ea114e7933de766bb098fa1e422e888" alt="Atanu Ghosh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zabuja" target="blank">
-  <img align="center" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" alt="zabuja" height="30" width="40" /></a><br><br>
+  <img align="center" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" alt="zabuja" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zabuja" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="zabuja" height="30" width="40" /></a>
+  <img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" alt="zabuja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
