@@ -8,7 +8,7 @@
 - 📫 You can reach me at **atagh3344@gmail.com**
 <img align=right src="https://media2.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif?cid=ecf05e47h46542ksbsvis7jaqtpy4lr9aws303sqfmyodav7&rid=giphy.gif&ct=g" width=400>
 
-- ⚡ Fun fact **I love to pet dogs 🐕.**
+- ⚡ **I love to pet dogs 🐕.**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
