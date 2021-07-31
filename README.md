@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <span clas='wave'>👋</span> I am Atanu.</h1>
-<h3 align="center">An aspiring developer from India</h3>
+<h3 align="center">An aspiring Fullstack Developer from India</h3>
 
 - 🔭 I’m currently working on **my portfolio website.**
 
