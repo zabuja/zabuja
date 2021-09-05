@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my portfolio website.**
 
-- 🌱 I’m currently learning **Frameworks.**
+- 🌱 I’m currently learning **backend development.**
 
-- 📫 You can reach me at **atagh3344@gmail.com**
+- 📫 You can reach me at **atanu.zxbui@gmail.com**
 <img align=right src="https://media2.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif?cid=ecf05e47h46542ksbsvis7jaqtpy4lr9aws303sqfmyodav7&rid=giphy.gif&ct=g" width=400>
 
 - ⚡ **I love to pet dogs 🐕.**
