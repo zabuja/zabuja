@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **backend development.**
 
 - 📫 You can reach me at **atanu.zxbui@gmail.com**
-- <div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/eeUJaTwsHh3tswkaYm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eeUJaTwsHh3tswkaYm"></a></p>
-<!-- <img align=right src="https://media2.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif?cid=ecf05e47h46542ksbsvis7jaqtpy4lr9aws303sqfmyodav7&rid=giphy.gif&ct=g" width=400> -->
+-
+<img align=right src="https://media1.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif?cid=ecf05e47txhdvhbxku8rzbk8rqsx8x5kmm4b1zpoq8ds0qiz&rid=giphy.gif&ct=g" width=400>
 
 - ⚡ **I love to pet dogs 🐕.**
 
