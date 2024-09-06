@@ -1,7 +1,8 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px"> I am Atanu.</h1>
-<h3 align="center">An aspiring fullstack developer from India</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I am Atanu.</h1>
+<h3 align="center">I build smart, scalable web solutions. Pushing my boundaries with Machine learning.</h3>
+
 <p align=center>
-<img src="https://media4.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=ecf05e47p5xhpagghe7rbf73wfwpo1hd70h6m5r1umia0257&rid=giphy.gif&ct=g" width=600>
+<img src="https://i.giphy.com/g9582DNuQppxC.webp" width="480px" >
 </p>
 <br>
 <div align=center>
